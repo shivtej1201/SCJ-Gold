@@ -1,0 +1,71 @@
+
+.body{
+
+        background-image: linear-gradient(to right yellow,red);
+
+
+
+}
+
+.navbar{
+
+
+        background-color: black !important;
+
+
+
+
+}
+.container-fluid img{
+
+        height: 3rem;
+}
+.card{
+
+        box-sizing: border-box;
+        background-image: linear-gradient(to right yellow,red);
+        position:absolute;
+        display: block;
+
+
+}
+.container{
+
+        
+        background-image: linear-gradient(to right yellow,red) !important;
+
+
+}
+.carousel-item img{
+
+        height: 90vh;
+
+
+
+}
+.footer{
+        position: relative;
+        background-image: linear-gradient(to right yellow,red);
+        background-color: aqua;
+        height:fit-content;
+        width: 99vw;
+        display: flex;
+        justify-content:start;
+
+
+}
+       
+
+.card{
+        transition: all ease .5s;
+
+}
+.card:hover{
+
+        box-shadow: 10px 10px 15px gray;
+        margin-top: -1rem;
+        cursor: pointer;
+
+
+
+}
